@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = 'http://www.liiofindia.org/in/cases/cen/INSC/1950/2.html'
+URL = ''
 headers = {'User-Agent': 'whatever'}
 
 f = open("outputfile.txt", "w+")
